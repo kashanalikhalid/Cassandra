@@ -70,4 +70,3 @@
 ### Replication
 - How does replication work in Cassandra DB?
 
-Feel free to use this template in your GitHub readme, and customize it further based on your specific needs.
