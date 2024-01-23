@@ -1,4 +1,3 @@
-Certainly! Here's a more organized and visually appealing list for a GitHub readme:
 
 ## Cassandra Database FAQ
 
